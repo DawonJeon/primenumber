@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1641984284643" clover="3.2.0">
+  <project timestamp="1641984284643" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2" elements="21" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="prime.js" path="C:\Users\82105\Desktop\TDDtest\src\prime.js">
+      <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="19996" type="stmt"/>
+      <line num="12" count="19996" type="stmt"/>
+      <line num="13" count="99950006" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="147292" type="stmt"/>
+      <line num="16" count="19996" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

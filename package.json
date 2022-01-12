@@ -1,0 +1,38 @@
+{
+  "name": "tddtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test:jest": "jest --watchAll --collect[=true] --logHeapUsage",
+    "lint": "eslint ./index.js --fix",
+    "start": "parcel",
+    "build" : "parcel build",
+    "babel": "nodemon --exec babel-node ./src/prime.js",
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "y",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.8",
+    "babel-jest": "^27.4.6",
+    "eslint": "^8.6.0",
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
+    "parcel": "^2.1.1",
+    "prettier": "^2.5.1"
+  }
+}
